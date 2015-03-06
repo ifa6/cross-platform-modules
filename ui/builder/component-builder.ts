@@ -31,6 +31,8 @@ var MODULES = {
     "WebView": "ui/web-view",
     "SegmentedBar": "ui/segmented-bar",
     "SegmentedBarItem": "ui/segmented-bar",
+    "ToolBar": "ui/tool-bar",
+    "ToolBarItem": "ui/tool-bar",
     "TimePicker": "ui/time-picker",
     "DatePicker": "ui/date-picker",
     "ListPicker": "ui/list-picker",
